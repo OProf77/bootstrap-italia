@@ -37,6 +37,10 @@
 - category: Temi
   description: Di seguito sono riportati alcuni progetti che semplificano la creazione di progetti con Bootstrap Italia e diversi CMS o framework per il web. Sono tutti in piena evoluzione e necessitano dell'aiuto di tutti per essere completati, resi pienamente conformi ed esenti da problemi. Se vuoi contruibire contattaci o crea una Pull Request sul repository!
   examples:
+    - name: Tema DRUPAL 8/9
+      url: "https://www.drupal.org/project/bootstrap_italia"
+      description: Un tema open-source per il CMS <a href="https://www.drupal.org" target="_blank" rel="noopener noreferrer">DRUPAL</a>, utili per tutti i siti web della PA, dai comuni alle scuole.
+      status: In costante aggiornamento
     - name: Tema WordPress
       url: "https://github.com/italia/design-wordpress-theme/"
       description: Un tema open-source per il CMS <a href="https://it.wordpress.org/" target="_blank" rel="noopener noreferrer">WordPress</a>, creato dalla community degli sviluppatori.
